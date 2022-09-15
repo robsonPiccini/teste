@@ -1,4 +1,4 @@
-# Sistema de teste compilado (ou usa <h)
+# Sistema de teste compilado
 
 > Status do Projeto: Em desenvolvimento 
 
